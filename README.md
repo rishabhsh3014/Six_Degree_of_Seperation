@@ -24,7 +24,18 @@ If you select two people, let’s say Sameer and Bhaskar, the application should
 2. Sameet > Kamalnath Sharma > Shanti Kumar Saha > Bhaskar 
 
 Screenshot of App:
-[Home Page(Add People)](/screenshots/home.png)
-[Add Relationship](/screenshots/add_rel.png)
-[Check Relationship](/screenshots/check_conn.png)
+![Home Page(Add People)](/screenshots/home.png)
+![Add Relationship](/screenshots/add_rel.png)
+![Check Relationship](/screenshots/check_conn.png)
+
+Demo Video:
+https://user-images.githubusercontent.com/87780844/162560050-df274045-96d7-42d1-8418-632d65a4e8d9.mp4
+
+***
+
+How to use the App:
+1. $ git clone https://github.com/rishabhsh3014/Six_Degree_of_Seperation
+2. Download the code as zip file 
+    * npm install 
+    * npm start
 
